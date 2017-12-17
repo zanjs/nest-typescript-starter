@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@types/node": "^8.0.28",
-    "nodemon": "^1.12.1",
+    "nodemon": "^1.13.3",
     "ts-node": "^3.3.0"
   }
 }
